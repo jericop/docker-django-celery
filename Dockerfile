@@ -1,5 +1,5 @@
 # use base python image with python 2.7
-FROM python:2.7
+FROM python:3.7
 
 # add requirements.txt to the image
 ADD requirements.txt /app/requirements.txt

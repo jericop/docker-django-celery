@@ -1,5 +1,5 @@
-Django==1.9.8
-celery==3.1.20
-djangorestframework==3.3.1
-psycopg2==2.5.3
-redis==2.10.5
+celery==4.3.0
+Django>=2.2.3
+djangorestframework>=3.3.1
+psycopg2==2.8.4
+redis==3.2.1
